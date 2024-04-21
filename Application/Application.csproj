@@ -1,9 +1,22 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+
+    <PackPackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="8.0.3"/>
+
+    <PackPackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0"/>
+
+    <PackPackageReference Include="Microsoft.Extensions.Http" Version="8.0.0"/>
+
+    <PackPackageReference Include="NetcodeHub.Packages.Extensions.LocalStorage" Version="1.0.0"/>
+
+    <PackPackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.5.0"/>
+  </ItemGroup>
 
 </Project>

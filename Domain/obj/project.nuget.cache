@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "IgBOc3LEnv/E708LnnqpV8Sgbn1dKIAlUkKXmRY3/jzrz/SpnXI4ZXBOFHkvbogMIm+RLAfrdACyQ6euVo6x9w==",
+  "dgSpecHash": "mpCAyX57cDh857eKpnf9lnzGn49zpkqwj6wYN2oacWRnVAXo0YCaMKJWJ1SO2NjizRQenrHp2Di4aDA2b7A9/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\BlazorCRUDwithAuthentication\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\PC3\\Source\\Repos\\BlazorCRUD\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.3\\microsoft.aspnetcore.cryptography.internal.8.0.3.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.3\\microsoft.aspnetcore.cryptography.keyderivation.8.0.3.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.3\\microsoft.extensions.identity.core.8.0.3.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.3\\microsoft.extensions.identity.stores.8.0.3.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

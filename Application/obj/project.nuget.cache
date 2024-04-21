@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VEQzjEgSUDx2azOqwlzzTRXNFcatOHwvYvL9qDv/EGXZPcJ1Nqy9WPhc4QHwNOwxraslzXMHKLKmPEwvG5nTLA==",
+  "dgSpecHash": "LgcfeZiSigg31xBDNC44LA7kku9/ec8k2unh90OLrj5a8c4/qBZjcAliJ6d9HS7LvsfXvNS5gwYw8dc/097tRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\BlazorCRUDwithAuthentication\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\PC3\\Source\\Repos\\BlazorCRUD\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
